@@ -25,9 +25,9 @@
 
    1) Before Solving
 
-   ![Screenshot](sudoku_solved.png)
+   ![Screenshot](sudoku_unsolved.png)
 
 
    1) After Solving
 
-   ![Screenshot](sudoku_unsolved.png)
+   ![Screenshot](sudoku_solved.png)
