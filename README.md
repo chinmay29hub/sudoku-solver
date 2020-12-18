@@ -12,8 +12,22 @@
                     pip3 install pyfiglet
 
 
-## OUTPUT: ##### Suadosds 
+## OUTPUT: 
 
 
 
-   ![Screenshot](sudoku_unsolved.png)
+   ![Screenshot](sudoku.gif)
+   
+   
+
+
+### These pictures are from a sudoku solver website :
+
+   1) Before Solving
+
+   ![Screenshot](sudoku_solved.gif)
+
+
+   1) After Solving
+
+   ![Screenshot](sudoku_unsolved.gif)
