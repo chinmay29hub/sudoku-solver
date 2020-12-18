@@ -10,3 +10,10 @@
       For Linux   : pip3 install numpy
                     pip3 install pyautogui
                     pip3 install pyfiglet
+
+
+## OUTPUT: ##### Suadosds 
+
+
+
+   ![Screenshot](sudoku_unsolved.png)
